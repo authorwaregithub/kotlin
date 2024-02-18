@@ -1,2 +1,2 @@
 # kotlin
-Türkçe Kotli Programlama Diline Giriş Dersleri
+Türkçe Kotlin Programlama Diline Giriş Dersleri
