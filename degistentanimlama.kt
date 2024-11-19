@@ -1,9 +1,9 @@
 fun main(args: Array<String>) {
 
-    // Değişken tanımlama işleminde çıktı olarak : "Merhaba ben Postuldak" verisini göreceğiz.
+    // Değişken tanımlama işleminde çıktı olarak : "Merhaba ben Authorware" verisini göreceğiz.
 
     var name: String
-    name = "Postuldak"
+    name = "Authorware"
 
     println("Merhaba ben : " + name)
 }
